@@ -1,0 +1,28 @@
+content:
+- Dictionary methods
+- Json module
+- Class
+- Class instances
+- Methods
+- Methods and attributes
+- Identity testing
+- Conversion to boolean
+- Slicing
+- Regexps in Python
+- Escaping in regexps
+- Regexp sets and ranges
+- Shorthands
+- Regexp quantifiers
+- Match object and flags
+- Regexp functions in Python
+- Regexp flags in Python
+- Preconditions and postconditions
+- Groups and alternations
+- Overview of NLTK
+- Tokenization
+- Regexps in programs
+- Lambda functions
+- Iterators
+- Itertools module
+- Sorting a list
+- Custom generators

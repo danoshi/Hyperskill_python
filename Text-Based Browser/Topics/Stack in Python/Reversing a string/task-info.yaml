@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    n = int(input())
+
+    my_stack = ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8922#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 25 May 2022 12:48:13 UTC
+record: -1

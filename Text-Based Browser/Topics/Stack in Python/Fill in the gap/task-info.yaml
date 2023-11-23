@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: last-in-first-on
+- text: first-in-first-out
+- text: last-in-last-out
+- text: last-in-first-out
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8916#comment
+status: Solved
+record: -1
