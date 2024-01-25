@@ -1,0 +1,18 @@
+type: code
+files:
+  - name: main.py
+    visible: true
+    highlight_level: NONE
+    text: |-
+      class Puppy:
+          n_puppies = 0  # number of created puppies
+      
+          # define __new__
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7145#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 25 Jan 2024 21:49:59 UTC"
+record: -1
+submission_language: python3
