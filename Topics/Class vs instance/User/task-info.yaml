@@ -1,0 +1,19 @@
+type: code
+files:
+  - name: main.py
+    visible: true
+    highlight_level: NONE
+    text: |-
+      class User:
+          # create the class attributes
+      
+          # create the __init__ method
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6681#comment
+status: Failed
+feedback:
+  message: |
+    Failed. Wrong answer
+  time: "Mon, 29 Jan 2024 12:33:23 UTC"
+record: -1
+submission_language: python3
